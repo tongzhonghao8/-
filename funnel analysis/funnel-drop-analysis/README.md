@@ -204,15 +204,3 @@ pip install pandas numpy matplotlib seaborn jupyter
 # 3. 运行笔记本
 jupyter notebook "funnel-drop.ipynb"
 ```
----
-## 作者主页与数据集
-
-* 🔗 **领英：** [查看个人主页](https://www.linkedin.com/in/analytics-ashish/)
-* 📂 **数据集：** [Kaggle：电商客户旅程与转化模拟数据](https://www.kaggle.com/datasets/sufya6/e-commerce-customer-journey-click-to-conversion)
-* 💻 **GitHub 仓库：** [漏斗流失分析](https://github.com/analytics-ak/funnel-drop-analysis/)
-* 📘 **笔记本：** [funnel-drop.ipynb](https://github.com/analytics-ak/funnel-drop-analysis/blob/main/funnel-drop.ipynb)
-
-<br>
-
-## 作者：Ashish Kumar Dongre — 高级数据分析师
-热爱用数据发现能帮助业务增长的简明洞察。熟悉 **Python（Jupyter、pandas、seaborn、matplotlib）**，善于将原始数据整理为清晰、实用的报告。
